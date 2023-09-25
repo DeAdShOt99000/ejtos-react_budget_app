@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.currency, #Currency {
+    background-color: lightgreen;
+    color: white;
+    font-weight: bolder;
+    border: none;
+}
+
+#Currency option {
+    color: black;
+}
